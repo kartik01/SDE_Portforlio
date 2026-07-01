@@ -5,9 +5,6 @@ island, orbiting crystal shards, a starfield, and a tiny UI panel — built
 with **React Three Fiber** (Three.js for React), animated with
 **Framer Motion** for the rest of the page.
 
-This is an original scene (not a copy of any specific Dribbble/tutorial
-asset) — the crystals, island, and panel are procedural geometry, so there
-are no external 3D model files to manage.
 
 ## Run it locally
 
